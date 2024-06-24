@@ -82,15 +82,87 @@
 # b=int(input("enter another number:"))
 # print(a%b)
 
-username=input("enter your username:")
-password=input("enter your password:")
-if username=='shrijan':
- if password=='shrijan123$#':
-    print("welcome user")
- else:
-    print("invalid password")
-else:
-    print("invalid username")    
+# username=input("enter your username:")
+# password=input("enter your password:")
+# if username=='shrijan':
+#  if password=='shrijan123$#':
+#     print("welcome user")
+#  else:
+#     print("invalid password")
+# else:
+#     print("invalid username")  
+
+# print("=============welcome to mero atm=================")  
+# pin=int(input("please enter the pin:"))  
+# if pin==1234:
+#     amount=100000
+# print("1.withdraw")
+# print("2.balance enquiry")
+# option=int(input("what do you want to do:"))
+# if option==1:
+#    new_amount=int(input("enter the amount to withdraw"))
+#    if amount>new_amount:
+#       rem=amount-new_amount
+#       print("remaining balance:",rem)
+#       print("withdrawn amount:",new_amount)
+#    else:
+#       print("insufficient balance")
+# elif option==2:
+#    print("your total amount is:",amount)
+         
+
+# else:
+#    print("incorrect passsword")
+#    exit()
+
+# print("welcome to my shop") 
+# print("1.dell laptop")
+# print("2.hp laptop")
+# print("3.mac")
+# option=int(input("what do you want to buy:"))
+# if option==1:
+#    stock=10
+#    price=1000000
+#    quantity=int(input("how many do you want:"))
+#    if quantity<=stock:
+#       tot=price*quantity
+#       print("your total amount is:",tot)
+#    else:
+#          print("sorry out of stock")
+#          exit()
+# elif option==2:
+#    stock=9
+#    price=200000
+#    quantity=int(input("how many do you want:"))
+#    if quantity<=stock:
+#       tot=price*quantity
+#       print("your total amount is:",tot)
+#    else:
+#          print("sorry out of stock")
+#          exit()
+# else:
+#    stock=6
+#    price=300000
+#    quantity=int(input("how many do you want:"))
+#    if quantity<=stock:
+#       tot=price*quantity
+#       print("your total amount is:",tot)
+#    else:
+#          print("sorry out of stock")
+#          exit()   
+
+students_list=['ramu','hari','belove']
+print("1.add student")
+print("2.remove student")
+print("3.display student")
+print("4.exit")
+print=input("enter the student")
+if option==1:
+   
+
+               
+
+
 
 
    
