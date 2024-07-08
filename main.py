@@ -151,14 +151,16 @@
 #          print("sorry out of stock")
 #          exit()   
 
-students_list=['ramu','hari','belove']
-print("1.add student")
-print("2.remove student")
-print("3.display student")
-print("4.exit")
-print=input("enter the student")
-if option==1:
-   
+# students_list=['ramu','hari','belove']
+# print("1.add student")
+# print("2.remove student")
+# print("3.display student")
+# print("4.exit")
+# print=input("enter the student")
+# if option==1:
+
+
+    
 
                
 
